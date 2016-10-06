@@ -1,0 +1,3 @@
+C:\Users\Alice Farina Souto\Documents\GitHub\NancyApplication\NancyApplication\obj\Debug\UmRioCheckoutNancy.csprojResolveAssemblyReference.cache
+C:\Users\Alice Farina Souto\Documents\GitHub\NancyApplication\NancyApplication\obj\Debug\NancyApplication.dll
+C:\Users\Alice Farina Souto\Documents\GitHub\NancyApplication\NancyApplication\obj\Debug\NancyApplication.pdb
