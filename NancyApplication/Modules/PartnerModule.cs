@@ -1,5 +1,6 @@
 ﻿using Nancy;
 using Nancy.ModelBinding;
+using UmRioCheckoutNancy.Manager;
 using UmRioCheckoutNancy.Models;
 using UmRioCheckoutNancy.Modules;
 
@@ -40,7 +41,7 @@ namespace NancyApplication.Modules
                     return View["create"];
                 }
 
-                return RedirectToAction("Thank");
+                return View["thank"];
 
             };
         }
