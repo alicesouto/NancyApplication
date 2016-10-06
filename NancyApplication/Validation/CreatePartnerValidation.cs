@@ -15,6 +15,5 @@ namespace UmRioCheckoutNancy.Validation
         RuleFor(request => request.CreditCard).NotEmpty().WithMessage("");
 
         RuleFor(request => request.CreditCard.Number).Length(10,30).WithMessage("");
-
     }
 }
